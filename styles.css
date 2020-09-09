@@ -43,8 +43,19 @@ ul{
 .category :hover{
     color:red;
     border: 2px 2px 2px;
+    font-display: left;
 
 }
 .rapper a:hover{
     color:red;
+}
+.wash{
+font-size:24px;
+}
+h2{
+ text-align: center;
+ color:yellowgreen;
+}
+#foot {
+    border: 10px solid;
 }
