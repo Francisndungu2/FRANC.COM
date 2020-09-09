@@ -1,0 +1,50 @@
+nav h1{
+    text-align: center;
+    color: red;
+    background-color: yellow;
+}
+nav p{
+    text-align: center;
+    background-color: yellow;
+    border:2px solid yellow;
+}
+h3{
+    text-align: center;
+     
+}
+/* .img{
+    align-self:center ;
+} */
+.rapper{
+    display: flex;
+    justify-content:space-around;
+    
+}
+.rapper img{
+    width: 300px;
+    height: 300px;
+}
+.details{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    flex-direction: column;
+    display:flex;
+}
+.wrap{
+    border:2px solid yellow;
+    background-color: yellow;
+    margin:2px 2px 2px;
+}
+.category :hover{
+    color:red;
+    border: 2px 2px 2px;
+
+}
+.rapper a:hover{
+    color:red;
+}
