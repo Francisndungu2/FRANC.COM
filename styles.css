@@ -43,8 +43,8 @@ ul{
 .category :hover{
     color:red;
     border: 2px 2px 2px;
-    font-display: left;
-
+    font-display: right;
+   
 }
 .rapper a:hover{
     color:red;
@@ -52,10 +52,14 @@ ul{
 .wash{
 font-size:24px;
 }
-h2{
- text-align: center;
+h3{
+ text-align: left;
  color:yellowgreen;
 }
 #foot {
-    border: 10px solid;
+    border: 3px solid;
+    background-color: teal;
+}
+.products {
+    text-align: center;
 }
